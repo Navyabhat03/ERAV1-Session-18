@@ -112,13 +112,13 @@
 124.174   Total estimated model params size (MB)
 ```
 ##### UNET - OXford Pet Dataset Samples
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/f8adccb1-71b6-442d-9b6a-f04c82fe1b69)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/1c5135cd-e767-4c86-9dd6-66689d09396b)
 
 ##### MaxPool + ConvTranspose + Dice Loss
 **Training log**
 
 **RESULTS**
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/1b023fd7-a49a-4594-b0df-6dad96f43b8a)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/8ab1783d-9436-4a6d-a02f-7f3483deab84)
 
 
 ##### MaxPool + ConvTranspose + BCE Loss
@@ -192,25 +192,25 @@
 81.301    Total estimated model params size (MB)
 ```
 ##### VAE MNIST Data samples
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/8c568a1f-a4ad-4a50-9838-1abd907c27d2)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/5033b340-78d0-4ea3-a4c5-848dfabd818c)
 
 ##### VAE MNIST Training log
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/e4427bc3-59a1-42fe-b54e-8768a55c7df0)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/b614d069-52fe-4f75-9566-f19e99ad1631)
 **TensorBoard Plots**
-![image](https://github.com/RaviNaik/ERA-SESSION18/blob/main/vae_mnist_tb.png)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/a715ff64-6239-45b3-869d-e14bab0c400a)
 ##### VAE MNIST Results
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/2b2273e3-4cd3-4b05-b3a8-b7064999a396)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/b79dc2d0-6295-4d12-ac6b-7d5970bb0661)
 
 ##### VAE CIFAR Data samples
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/be4af0a4-fa8a-41d1-8097-d63ed475ff2c)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/3ff50bb7-f187-4cf4-995d-baf6e77ce8eb)
 
 ##### VAE CIFAR Training log
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/ac8fc51c-6ea8-44a9-b9f8-bda4447b9901)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/f2784999-3c25-4ed5-8ade-786d32617fdc)
 **TensorBoard Plots**
-![image](https://github.com/RaviNaik/ERA-SESSION18/blob/main/vae_cifar_tb.png)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/ea8aa427-ec8d-4921-a36e-365da962b9c6)
 
 ##### VAE CIFAR Results
-![image](https://github.com/RaviNaik/ERA-SESSION18/assets/23289802/700992ad-4593-4baa-a352-065d68e34324)
+![image](https://github.com/Navyabhat03/ERAV1-Session-18/assets/60884505/c8a1390a-e5d6-45a6-96c3-6d82b8b004c2)
 
 
 
